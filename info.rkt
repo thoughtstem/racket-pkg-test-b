@@ -1,7 +1,7 @@
 #lang info
 (define collection "b")
 (define deps '("base"
-               "https://github.com/thoughtstem/racket-pkg-test-d.git"
+               "https://github.com/thoughtstem/racket-pkg-test-c.git"
                ))
 (define build-deps '("scribble-lib" "racket-doc" "rackunit-lib"))
 (define scribblings '(("scribblings/b.scrbl" ())))
